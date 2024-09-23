@@ -22,19 +22,19 @@
     "url": "https://20.rp.get6pm.com",
     "icon": "https://icons.duckduckgo.com/ip3/20.rp.get6pm.com.ico",
     "slug": "crm",
-    "status": "up",
-    "uptime": "82.73%",
-    "uptimeDay": "57.43%",
-    "uptimeWeek": "82.73%",
-    "uptimeMonth": "82.73%",
-    "uptimeYear": "82.73%",
+    "status": "down",
+    "uptime": "82.91%",
+    "uptimeDay": "57.38%",
+    "uptimeWeek": "82.91%",
+    "uptimeMonth": "82.91%",
+    "uptimeYear": "82.91%",
     "time": 4813,
     "timeDay": 5031,
     "timeWeek": 4813,
     "timeMonth": 4813,
     "timeYear": 4813,
     "dailyMinutesDown": {
-      "2024-09-23": 614
+      "2024-09-23": 615
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://docs.rp.get6pm.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.rp.get6pm.com.ico",
     "slug": "private-docs",
-    "status": "up",
-    "uptime": "82.18%",
-    "uptimeDay": "56.05%",
-    "uptimeWeek": "82.18%",
-    "uptimeMonth": "82.18%",
-    "uptimeYear": "82.18%",
+    "status": "down",
+    "uptime": "82.53%",
+    "uptimeDay": "56.43%",
+    "uptimeWeek": "82.53%",
+    "uptimeMonth": "82.53%",
+    "uptimeYear": "82.53%",
     "time": 6349,
     "timeDay": 6671,
     "timeWeek": 6349,
     "timeMonth": 6349,
     "timeYear": 6349,
     "dailyMinutesDown": {
-      "2024-09-23": 632
+      "2024-09-23": 627
     }
   }
 ]
