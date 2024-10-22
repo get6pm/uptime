@@ -1,7 +1,7 @@
 url: https://api.get6pm.com/v1/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-22T04:20:49.405Z
+status: up
+code: 200
+responseTime: 448
+lastUpdated: 2024-10-22T04:36:59.556Z
 startTime: 2024-09-21T07:48:46.093Z
 generator: Upptime <https://github.com/upptime/upptime>
